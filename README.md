@@ -49,4 +49,4 @@ The optimization results for the new energy system are listed below. The optimum
 ## License:
 This Software is provided under the GNU General Public License, Version 3 , (GPLv3).  
 
-Copy(C) 2025 Leon Himmelsbach.
+Copyright(C) 2025 Leon Himmelsbach.
