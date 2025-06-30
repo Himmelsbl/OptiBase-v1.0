@@ -26,7 +26,7 @@ When configuring a wind turbine model that deviates from model named above, the 
 
 ## Input
 As the framework conditions of energy self-sufficient shelters in international disaster relief operations vary depending on the mission, these are configured by the user using input fields on the GUI. The input mask created for the optimization tool is shown in Figure 1. The graphical user interface is implemented in lines 902-1228 of the program code.  
-![Imput mask of the optimization tool](https://github.com/user-attachments/assets/db09fb72-1b51-4238-9393-3a9a8ce5daa9)
+![image](https://github.com/user-attachments/assets/460fb9da-5bdb-4eb5-867e-fb6bc2b3f820)  
 Figure 1: Input mask of the optimization tool
 
 To optimize a BoO energy system with the tool, the following entries must first be made:  
